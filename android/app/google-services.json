@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1081946430682",
+    "project_id": "nail-technician-app",
+    "storage_bucket": "nail-technician-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081946430682:android:6fc98730982a6e6b6f59e3",
+        "android_client_info": {
+          "package_name": "com.dirtek.salon_app_userside"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvB9XMeJv42fYBnhCBPD0BdmMQi12vmG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081946430682:android:b9228c320631a2856f59e3",
+        "android_client_info": {
+          "package_name": "com.example.salon_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvB9XMeJv42fYBnhCBPD0BdmMQi12vmG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
